@@ -1,4 +1,4 @@
-package com.example;
 /**
  * this is a test package
  */
+package com.example;
