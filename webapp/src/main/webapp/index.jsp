@@ -1,1 +1,1 @@
-Hello, Welcome to this course - jenkins (from auto deploy)!
+Hello, Welcome to this course - jenkins (from pipeline)!
